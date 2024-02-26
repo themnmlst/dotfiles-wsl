@@ -1,0 +1,1 @@
+alias U="sudo apt update && sudo apt upgrade"
